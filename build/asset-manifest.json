@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/outaa-restaurant/static/css/main.dbfea5a2.chunk.css",
+    "main.css": "/outaa-restaurant/static/css/main.b16327c6.chunk.css",
     "main.js": "/outaa-restaurant/static/js/main.c569312f.chunk.js",
     "main.js.map": "/outaa-restaurant/static/js/main.c569312f.chunk.js.map",
     "runtime-main.js": "/outaa-restaurant/static/js/runtime-main.876638ae.js",
@@ -8,7 +8,7 @@
     "static/js/2.6a52951e.chunk.js": "/outaa-restaurant/static/js/2.6a52951e.chunk.js",
     "static/js/2.6a52951e.chunk.js.map": "/outaa-restaurant/static/js/2.6a52951e.chunk.js.map",
     "index.html": "/outaa-restaurant/index.html",
-    "static/css/main.dbfea5a2.chunk.css.map": "/outaa-restaurant/static/css/main.dbfea5a2.chunk.css.map",
+    "static/css/main.b16327c6.chunk.css.map": "/outaa-restaurant/static/css/main.b16327c6.chunk.css.map",
     "static/js/2.6a52951e.chunk.js.LICENSE.txt": "/outaa-restaurant/static/js/2.6a52951e.chunk.js.LICENSE.txt",
     "static/media/G.b571eb82.png": "/outaa-restaurant/static/media/G.b571eb82.png",
     "static/media/award01.361a4bc4.png": "/outaa-restaurant/static/media/award01.361a4bc4.png",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.876638ae.js",
     "static/js/2.6a52951e.chunk.js",
-    "static/css/main.dbfea5a2.chunk.css",
+    "static/css/main.b16327c6.chunk.css",
     "static/js/main.c569312f.chunk.js"
   ]
 }
